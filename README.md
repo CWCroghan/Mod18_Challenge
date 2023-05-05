@@ -31,7 +31,7 @@ There is a recommendation on which model to use, or there is no recommendation w
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #Credit Risk Analysis
 
-#@Overview
+##Overview
 
 The five major risks for banks are credit, operational, market, and liquidity risks (https://corporatefinanceinstitute.com/resources/risk-management/major-risks-for-banks/). Operational risks are lose and damages caused in day to day operations due to errors, property damage, or fraud.  These risks are minimal for most banks.  Market risk are only relevant to banks who participate in market trading and are due to the unpredictablity of the markets.  Liquidity risks are one risk that has been in the news lately and occur when banks do not have enough funds on hand to deal with customers taking money out of the banks.  Credit risk is the largest risk for banks.  This is a risk that cannot be avoided because lending money and issuing credit cards is the primary way that banks make money.  It is essintial to the business model of banks.  Creating a machine learning model to determine the whether a person is a risk on not repaying is the goal of this project.  
 
